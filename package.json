@@ -1,5 +1,5 @@
 {
-  "name": "@Fyxzpedia/baileys",
+  "name": "@fyxz/baileys",
   "version": "8.0.8",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
